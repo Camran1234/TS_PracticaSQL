@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+    padding-left: 75px;
+}
+
+#crudForm{
+    border-style: solid;
+    border-width: thick;
+    border-color: floralwhite;    
+    font-family :'Lucida Sans';
+    height:fit-content;
+    width:max-content;
+}
+
+#crudTitle{
+    font-family :'Lucida Sans Unicode';
+    font-size: xx-large;
+    font-weight: 510;
+    display: inline-flex;
+    
+    background-color: lavenderblush;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
